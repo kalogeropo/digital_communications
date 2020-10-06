@@ -21,7 +21,8 @@ Part 1. The study of a PCM system using Lloyd-Max algorithm as quanitizer
               - evaluate the changes on the edited image file
               - calculate and evaluate SQNR values
               - evaluate the changes on the actual image.
-
+        
+        *Q3: simple probability calculations using the expirimental data
 
 Part 2. The study of a M-PAM baseband system
 
